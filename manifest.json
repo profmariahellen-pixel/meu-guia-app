@@ -1,0 +1,17 @@
+{
+ "name": "Meu Guia",
+ "short_name": "Meu Guia",
+ "start_url": "/meu-guia-app/",
+ "scope": "/meu-guia-app/",
+ "display": "standalone",
+ "background_color": "#FCE4EC",
+ "theme_color": "#FCE4EC",
+ "icons": [
+  {
+   "src": "/meu-guia-app/icone.png",
+   "sizes": "1024x1024",
+   "type": "image/png",
+   "purpose": "any"
+  }
+ ]
+}
