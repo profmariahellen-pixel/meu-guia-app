@@ -1,0 +1,151 @@
+{
+  "tipo": "meu-guia-jornal",
+  "versao": 1,
+  "id": "2026-11-16-diaria",
+  "data": "2026-11-16",
+  "edicao": "diaria",
+  "nome": "Enquanto você estava dormindo",
+  "produzidoEm": "2026-11-16T09:40:00-03:00",
+  "produzidoPor": "Claude, com pesquisa na web em 16/11/2026 pela manhã",
+  "leituraMin": 9,
+  "abertura": {
+    "destaque": "O Copom segurou a Selic em 13,75% e a COP31 entra na última semana sem acordo sobre dinheiro.",
+    "frase": "Semana que começa com o juro parado, o clima em disputa e o ENEM virando papel: gabarito na quarta, reaplicação aberta até sexta.",
+    "atencao": "Para você: pedido de reaplicação do ENEM vai de hoje a sexta (20/11); gabarito sai quarta (18/11); a prova discursiva da UERJ é dia 29."
+  },
+  "editorias": [
+    {
+      "id": "brasil",
+      "nome": "Brasil",
+      "noticias": [
+        {
+          "id": "copom-selic-1375",
+          "titulo": "O juro não caiu: Copom mantém a Selic em 13,75% e fala em inflação pressionada",
+          "importancia": "fundamental",
+          "oQueAconteceu": "Em 4 de novembro o Comitê de Política Monetária manteve a Selic em 13,75% ao ano, por unanimidade, contrariando a aposta de corte e interrompendo a sequência de cinco quedas de 0,25 ponto iniciada em março. A ata, publicada em 10 de novembro, diz que a inflação sofre pressão de oferta e de demanda e que os riscos pendem para cima.",
+          "contexto": "O IPCA acumulado em 12 meses roda perto de 4,6%, acima do teto da meta (4,5%). O mercado (boletim Focus) passou a projetar a Selic em 13,75% no fim de 2026 e inflação de 5,6% neste ano. Guerra no Oriente Médio, El Niño e dólar alto aparecem como vilões.",
+          "porQueImporta": "Juro parado por mais tempo significa crédito caro, parcelas do carro e do cartão pesando mais e menos consumo no fim do ano. Para quem guarda, a renda fixa continua rendendo acima da inflação. Para a redação: é o retrato de um país que combate a inflação com juro alto há anos.",
+          "lados": "Bancos como XP e Warren leem que a Selic fica em 13,75% até meados de 2027; parte do governo pressiona por cortes, dizendo que o juro trava o crescimento.",
+          "acompanhar": "Próxima reunião do Copom em 9 de dezembro; IPCA de outubro no site do IBGE.",
+          "fontes": [
+            { "nome": "Agência Brasil", "url": "https://agenciabrasil.ebc.com.br/radioagencia-nacional/economia/audio/2026-11/copom-surpreende-mercado-e-mantem-selic-em-1375-ao-ano", "data": "2026-11-04" },
+            { "nome": "Monitor do Mercado (ata)", "url": "https://monitordomercado.com.br/noticias/435371-ata-do-copom-reforca-alerta-sobre-inflacao-e-selic-deve-ficar-em-1375-ate-meados-de-2027", "data": "2026-11-10" },
+            { "nome": "Banco Central", "url": "https://www.bcb.gov.br/", "data": "2026-11-10" }
+          ]
+        },
+        {
+          "id": "microsoft-prazos-justica",
+          "titulo": "Uma pane na Microsoft parou os prazos da Justiça brasileira por dois dias",
+          "importancia": "relevante",
+          "oQueAconteceu": "A instabilidade global do Microsoft 365, começada na quinta (12/11), derrubou e-mail e Teams de tribunais. A pedido da OAB, o ministro Edson Fachin, presidente do STF e do CNJ, suspendeu a contagem de prazos processuais em todo o país nos dias 12 e 13 (Portaria 551). Os prazos voltam a correr hoje, 16/11. A Microsoft anunciou normalização no sábado.",
+          "contexto": "O Judiciário brasileiro depende de serviços de nuvem de poucas empresas; uma falha em uma delas afeta petições, audiências e comunicação interna de uma vez.",
+          "porQueImporta": "Mostra a dependência de infraestrutura estrangeira concentrada: um tema de redação em potencial (soberania digital, vulnerabilidade dos serviços públicos). Há divergência entre as reportagens sobre o alcance (nacional, segundo o CNJ; só STF, segundo versões iniciais).",
+          "acompanhar": "Se tribunais vão rever contratos de nuvem; eventuais decisões sobre prazos não cobertos pela portaria.",
+          "fontes": [
+            { "nome": "Agência Brasil", "url": "https://agenciabrasil.ebc.com.br/justica/noticia/2026-11/fachin-suspende-prazos-processuais-apos-instabilidade-da-microsoft", "data": "2026-11-13" },
+            { "nome": "CNJ", "url": "https://www.cnj.jus.br/cnj-suspende-prazos-processuais-por-instabilidade-no-microsoft-365/", "data": "2026-11-13" },
+            { "nome": "CNN Brasil", "url": "https://www.cnnbrasil.com.br/politica/fachin-atende-oab-e-suspende-prazos-no-stf-apos-falha-global-na-microsoft/", "data": "2026-11-13" }
+          ]
+        },
+        {
+          "id": "enem-reaplicacao-gabarito",
+          "titulo": "ENEM: pedido de reaplicação de hoje a sexta; gabarito na quarta; notas em 18 de janeiro",
+          "importancia": "fundamental",
+          "oQueAconteceu": "Quem perdeu um dos dias por motivo previsto no edital pede reaplicação de 16 a 20/11 na Página do Participante, com comprovação; as novas provas serão em 15 e 16/12, só do dia perdido. O Inep divulga os gabaritos em 18/11 e o resultado em 18 de janeiro de 2027.",
+          "contexto": "O tema da redação de 2026 foi 'A valorização do SUS como direito universal'. A vista pedagógica da redação não tem data; costuma vir depois do resultado.",
+          "porQueImporta": "É a sua semana de serviço para as alunas: avisar quem tem direito à reaplicação e preparar a leitura do gabarito, que não diz a nota da redação. Um dos sites consultados fala em prazo até 30/11 para o gabarito, o que conflita com a data oficial de 18/11: use a do Inep.",
+          "acompanhar": "Página do Participante (gov.br/inep) na quarta; comunicados do Inep sobre os pedidos de reaplicação.",
+          "fontes": [
+            { "nome": "Correio Braziliense", "url": "https://www.correiobraziliense.com.br/cbradar/gabarito-enem-2026-inep-quando-sai-como-consultar/", "data": "2026-11-15" },
+            { "nome": "Hora MS", "url": "https://horams.com.br/enem-2026-reaplicacao-gabarito-quarta-18-resultado-18-janeiro/", "data": "2026-11-15" }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "mundo",
+      "nome": "Mundo",
+      "noticias": [
+        {
+          "id": "cop31-ultima-semana",
+          "titulo": "COP31 entra na última semana sem acordo sobre financiamento",
+          "importancia": "fundamental",
+          "oQueAconteceu": "A conferência do clima em Antália, na Turquia (9 a 20/11), fechou a primeira semana sem acordo sobre financiamento e adaptação. O primeiro rascunho da decisão final, divulgado hoje, traz 'mapas do caminho' e financiamento, mas há divisão sobre combustíveis fósseis e até sobre eletrificação; a meta turca de eletrificar 35% da matriz mundial até 2035 travou.",
+          "contexto": "A ONU alertou na abertura que o mundo caminha para ultrapassar de forma irreversível 1,5 °C; a Organização Meteorológica Mundial diz que 2026 será um dos quatro anos mais quentes já registrados. Houve US$ 480 milhões em compromissos filantrópicos para gases além do CO2.",
+          "porQueImporta": "Para a redação, é o repertório mais atual sobre justiça climática: quem paga a conta da adaptação é a disputa central, e o Brasil chega como anfitrião do ano passado (COP30, em Belém).",
+          "acompanhar": "Encerramento em 20/11 e o texto final; a posição brasileira sobre combustíveis fósseis.",
+          "fontes": [
+            { "nome": "ClimaInfo", "url": "https://climainfo.org.br/2026/11/16/primeiro-documento-da-decisao-final-da-cop31-inclui-mapas-do-caminho-e-financiamento-climatico/", "data": "2026-11-16" },
+            { "nome": "OpiniãoCE", "url": "https://www.opiniaoce.com.br/meio-ambiente/2026/11/15/cop31-termina-primeira-semana-sem-acordo-sobre-financiamento-e-adaptacao-climatica/", "data": "2026-11-15" },
+            { "nome": "ONU News", "url": "https://news.un.org/pt/events/cop31", "data": "2026-11-16" }
+          ]
+        },
+        {
+          "id": "oriente-medio-em-apuracao",
+          "titulo": "Em apuração: relatos de drones do Irã contra bases dos EUA no Bahrein e de um terceiro porta-aviões na região",
+          "importancia": "relevante",
+          "oQueAconteceu": "Resumos da manhã de hoje (Anadolu e boletins brasileiros) relatam que o Irã lançou drones contra bases americanas no Bahrein, segundo o governo bareinita e a Guarda Revolucionária, e que a coalizão saudita interceptou mísseis atribuídos aos houthis, que negam. Também se fala em um terceiro porta-aviões dos EUA deslocado para a região.",
+          "contexto": "Não consegui confirmar hoje em Reuters, AP ou BBC (sites bloqueados para a minha busca). Trate como notícia em desenvolvimento até sair em agência.",
+          "porQueImporta": "Se confirmado, é escalada direta entre Irã e EUA no Golfo, com efeito no petróleo e no dólar, e, por tabela, na inflação brasileira que o Copom vigia.",
+          "acompanhar": "Confirmação em agências internacionais ao longo do dia; preço do petróleo.",
+          "fontes": [
+            { "nome": "Anadolu (Morning Briefing)", "url": "https://www.aa.com.tr/en/world/morning-briefing-nov-16-2026/4126094", "data": "2026-11-16" },
+            { "nome": "ClicRDC (resumo)", "url": "https://clicrdc.com.br/fique-bem-informado/cafe-com-noticias-de-segunda-feira-16-de-novembro-de-2026/", "data": "2026-11-16" }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "ciencia",
+      "nome": "Tecnologia e ciência",
+      "noticias": [
+        {
+          "id": "deepmind-rsa",
+          "titulo": "Agentes de IA do Google acharam duas fraquezas numa criptografia antiga (e a sua senha continua segura)",
+          "importancia": "interessante",
+          "oQueAconteceu": "A DeepMind anunciou em 6/11 que agentes de IA, supervisionados por criptógrafos da UC San Diego e do Inria, encontraram dois ataques mais baratos contra chaves RSA de 1.024 bits: uma falsificação de assinatura cerca de 1.600 vezes mais eficiente (estimativa teórica) e um método de fatoração em lote cerca de 30 vezes mais barato. Chaves de 2.048 bits, usadas hoje, não são afetadas.",
+          "contexto": "RSA-1024 já não é recomendado há anos. Os agentes não quebraram uma chave de fato: fatorar uma exigiria algo entre 500 mil e 1 milhão de 'anos de processador'.",
+          "porQueImporta": "É o exemplo concreto de IA fazendo pesquisa matemática com gente no comando. Serve para o eixo de tecnologia: avanço real, risco limitado, manchetes exageradas.",
+          "fontes": [
+            { "nome": "SecurityWeek", "url": "https://securityweek.com/google-deepminds-ai-agents-make-1024-bit-rsa-keys-cheaper-to-attack", "data": "2026-11-07" },
+            { "nome": "Interesting Engineering", "url": "https://interestingengineering.com/ai-robotics/google-deepmind-agents-expose-older-encryption-flaws", "data": "2026-11-07" }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "cultura",
+      "nome": "Cultura e ideias",
+      "noticias": [
+        {
+          "id": "451-conceicao-evaristo",
+          "titulo": "A Quatro Cinco Um de novembro põe Conceição Evaristo na capa",
+          "importancia": "interessante",
+          "oQueAconteceu": "A edição 111 da revista dos livros, de novembro de 2026, traz Conceição Evaristo na capa. A agenda da semana da revista cita um festival de livrarias no Rio, o lançamento de um livro sobre Marília Mendonça e o novo livro de Eliane Robert Moraes (datas e locais não constam na página; confirme antes de ir).",
+          "contexto": "Evaristo é o nome que você já usa em aula com 'escrevivência'; a entrevista da capa é material direto para a série 'Um conto, um argumento'.",
+          "porQueImporta": "Leitura para a semana e repertório vivo: autora brasileira contemporânea, negra, que a banca gosta.",
+          "fontes": [
+            { "nome": "Quatro Cinco Um", "url": "https://quatrocincoum.com.br/", "data": "2026-11-16" },
+            { "nome": "Agenda 451", "url": "https://quatrocincoum.com.br/noticias/agenda-451/italo-moriconi-feira-literaria-no-interior-do-rio-e-mais-os-eventos-da-semana/", "data": "2026-11-13" }
+          ]
+        }
+      ]
+    }
+  ],
+  "valeSeuTempo": [
+    { "titulo": "Navalha na Carne, no Rio", "texto": "Plínio Marcos em cartaz: texto bruto sobre quem a cidade descarta; combina com o eixo de moradia e violência. Está no seu Radar com datas.", "rota": "/radar", "minutos": 90 },
+    { "titulo": "A última semana da COP31 em 10 minutos por dia", "texto": "O ClimaInfo publica um resumo diário das negociações; ler um por dia até sexta dá o repertório inteiro de justiça climática.", "url": "https://climainfo.org.br/", "minutos": 10 },
+    { "titulo": "Durma com Essa (Nexo)", "texto": "O podcast curto de hoje à noite: 10 minutos, um assunto. Está no seu cardápio.", "url": "https://www.nexojornal.com.br/podcast/durma-com-essa", "minutos": 10 }
+  ],
+  "quickTakes": [
+    { "texto": "A PEC do fim da escala 6x1 já passou pelo Senado em 14/10 (75 a 1) e foi à promulgação; as fontes divergem se a jornada final é 40 ou 42 horas. Vale conferir o texto promulgado antes de usar em aula.", "url": "https://agenciabrasil.ebc.com.br/politica/noticia/2026-10/senado-aprova-fim-da-escala-6x1-e-reducao-da-jornada-de-trabalho" },
+    { "texto": "Boletins de hoje citam a primeira morte por mpox no Rio e a vitória do Internacional na Copa do Brasil; não achei a fonte primária nesta manhã, então ficam como 'a confirmar'." },
+    { "texto": "A APEC se reúne em Shenzhen a partir de quarta; resumos falam numa cúpula trilateral EUA-China-Rússia dia 19, sem confirmação em agência." },
+    { "texto": "O Google apresentou um modelo de IA mais barato e rápido; a OpenAI levantou cerca de US$ 11 bilhões numa rodada que a avalia em US$ 1,25 trilhão, segundo newsletters de tecnologia." }
+  ],
+  "paraVoce": {
+    "tese": "Juro alto por tanto tempo é escolha, não fatalidade: proteger a moeda custa emprego e crédito, e a conta cai sobre quem parcela.",
+    "noticiaParaTese": "copom-selic-1375",
+    "pergunta": "Se o tema fosse 'o custo social do combate à inflação', qual grupo você colocaria no centro do D1?"
+  }
+}
