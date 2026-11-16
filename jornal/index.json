@@ -3,6 +3,7 @@
   "versao": 1,
   "nome": "Enquanto você estava dormindo",
   "edicoes": [
+    { "id": "2026-11-17-diaria", "data": "2026-11-17", "edicao": "diaria", "arquivo": "2026-11-17.json", "destaque": "O Senado vota hoje os destaques do ajuste fiscal, e a COP31 recebeu um rascunho que fala em abandonar petróleo, carvão e gás." },
     { "id": "2026-11-16-diaria", "data": "2026-11-16", "edicao": "diaria", "arquivo": "2026-11-16.json", "destaque": "O Copom segurou a Selic em 13,75% e a COP31 entra na última semana sem acordo sobre dinheiro." }
   ]
 }

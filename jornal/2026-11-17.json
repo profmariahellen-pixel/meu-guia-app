@@ -1,0 +1,169 @@
+{
+  "tipo": "meu-guia-jornal",
+  "versao": 1,
+  "id": "2026-11-17-diaria",
+  "data": "2026-11-17",
+  "edicao": "diaria",
+  "nome": "Enquanto você estava dormindo",
+  "produzidoEm": "2026-11-16T13:30:00-03:00",
+  "produzidoPor": "Claude, com pesquisa na web em 16/11/2026 à tarde",
+  "leituraMin": 9,
+  "abertura": {
+    "destaque": "O Senado vota hoje os destaques do ajuste fiscal, e a COP31 recebeu um rascunho que fala em abandonar petróleo, carvão e gás.",
+    "frase": "Terça de contas: o Congresso decide onde cortar, o mundo discute quando parar de queimar, e o Irã mantém o Golfo em alerta.",
+    "atencao": "Para você: gabarito do ENEM sai amanhã (18/11); pedido de reaplicação vai até sexta (20/11); hoje é terça: 2º ano nos 1º e 2º tempos, 8º B no 3º, 1º ano no 4º, 3º ano nos 5º e 6º."
+  },
+  "editorias": [
+    {
+      "id": "brasil",
+      "nome": "Brasil",
+      "noticias": [
+        {
+          "id": "ajuste-fiscal-senado",
+          "titulo": "Senado vota hoje os quatro destaques do ajuste fiscal; texto-base passou por 45 a 31",
+          "importancia": "fundamental",
+          "oQueAconteceu": "Na quinta passada (12/11), depois de quase quatro horas de sessão, o Senado aprovou por 45 votos a 31 o texto principal do PLP 299/2026, o pacote de ajuste fiscal do governo, com relatoria de Eduardo Braga (MDB-AM). Ficaram para esta terça (17/11) quatro destaques, trechos que os partidos querem votar separado. Só depois o projeto vai à Câmara.",
+          "contexto": "O pacote corta 10% de todos os benefícios tributários, baixa o limite de crescimento das despesas de 2,5% para 2% acima da inflação, cria regras novas para o contingenciamento, dá 120 dias ao Congresso para regulamentar os salários acima do teto de R$ 46,3 mil e permite tirar até R$ 10,5 bilhões de subsídio ao diesel da meta fiscal de 2026. O ministro Bruno Moretti estima economia de R$ 50 a 60 bilhões em 2027.",
+          "porQueImporta": "É a conta do primeiro ano do novo mandato: o governo precisa mostrar ao mercado que o gasto cabe no orçamento, com a Selic parada em 13,75%. O que cair nos destaques de hoje define quem paga: setores com benefício fiscal, servidores acima do teto ou os programas sociais que ficam sem reajuste real.",
+          "lados": "Governo e relator dizem que sem corte o juro não cai; a oposição e parte do centrão chamam o corte linear de 'tesourada cega' que atinge Simples, saúde e Zona Franca. Entidades de servidores atacam a regra do teto.",
+          "acompanhar": "Votação dos destaques no plenário do Senado hoje à tarde; depois, o calendário na Câmara (sem data).",
+          "fontes": [
+            { "nome": "Agência Senado", "url": "https://www12.senado.leg.br/noticias/materias/2026/11/12/texto-principal-do-ajuste-fiscal-e-aprovado-pelo-senado", "data": "2026-11-12" },
+            { "nome": "Agência Brasil (via Tribuna do Sertão)", "url": "https://www.tribunadosertao.com.br/politica/2026/11/12/1020681-senado-aprova-texto-base-de-pacote-que-preve-economia-de-ate-r-60-bi", "data": "2026-11-12" }
+          ]
+        },
+        {
+          "id": "focus-inflacao-511",
+          "titulo": "Mercado baixa a inflação de 2026 para 5,11%, mas não vê a Selic cair",
+          "importancia": "relevante",
+          "oQueAconteceu": "O boletim Focus desta segunda (16/11) trouxe a projeção do IPCA de 2026 de 5,22% para 5,11%. A Selic continua projetada em 13,75% no fim do ano. As expectativas de inflação e juro para 2027 subiram. O dólar abriu a semana a R$ 5,68.",
+          "contexto": "O Copom manteve a Selic em 13,75% em 4/11 e disse que os riscos pendem para cima. A inflação projetada ainda está acima do teto da meta (4,5%).",
+          "porQueImporta": "Para o seu bolso: crédito caro continua até pelo menos meados de 2027; renda fixa segue rendendo acima da inflação. Para a aula: um exemplo limpo de 'expectativa' como variável econômica.",
+          "acompanhar": "IBC-Br de setembro (prévia do PIB) saiu hoje às 9h; próximo Copom em 9/12.",
+          "fontes": [
+            { "nome": "ISTOÉ Dinheiro", "url": "https://istoedinheiro.com.br/agenda-economica-hoje-16-11-2026-ibc-br-focus-fed", "data": "2026-11-16" }
+          ]
+        },
+        {
+          "id": "lula-asean-minerais",
+          "titulo": "Lula volta de Manila oferecendo minerais críticos e pedindo tecnologia asiática",
+          "importancia": "interessante",
+          "oQueAconteceu": "Na cúpula da Asean, em Manila, no domingo (15/11), Lula disse que o Brasil quer atrair investimento e tecnologia da Ásia para processar aqui terras raras e minerais usados em baterias e semicondutores, em vez de só exportar minério bruto. Defendeu também mais comércio entre Mercosul e Sudeste Asiático e disse que as tarifas dos EUA aceleraram a busca por outros parceiros.",
+          "porQueImporta": "Repertório para o eixo 'soberania e tecnologia': a disputa por minerais críticos é a nova corrida do petróleo, e o Brasil tenta não repetir o papel de exportador de matéria-prima.",
+          "fontes": [
+            { "nome": "ClicRDC (resumo da Agência Brasil)", "url": "https://clicrdc.com.br/fique-bem-informado/cafe-com-noticias-de-segunda-feira-16-de-novembro-de-2026/", "data": "2026-11-16" }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "mundo",
+      "nome": "Mundo",
+      "noticias": [
+        {
+          "id": "cop31-rascunho-fosseis",
+          "titulo": "COP31: rascunho propõe 'ação acelerada' para abandonar petróleo, carvão e gás",
+          "importancia": "fundamental",
+          "oQueAconteceu": "A presidência australiana das negociações divulgou nesta segunda (16/11), em Antália, um rascunho de 18 páginas que fala em transição 'acelerada e imediata' para longe dos combustíveis fósseis, com a meta de a eletricidade chegar a 35% do consumo final de energia até 2035 e de triplicar o dinheiro para adaptação, até pelo menos US$ 120 bilhões, sem prazo. O texto é negociado até sexta (20/11) e pode mudar até o último minuto.",
+          "contexto": "Na COP30, em Belém, a palavra 'fósseis' ficou fora da decisão final por pressão dos países produtores. A primeira semana desta COP terminou sem acordo sobre financiamento. O Brasil defende um 'mapa do caminho' global em que cada país faz seu plano nacional de transição.",
+          "porQueImporta": "É o teste de se a frase que faltou em Belém cabe num acordo com Arábia Saudita e Rússia na mesa. Para a redação: o tema 'transição energética justa' fica mais concreto com números (35%, US$ 120 bi).",
+          "lados": "Produtores de petróleo e grandes consumidores resistem a metas concretas; ilhas e países pobres querem prazo para a adaptação; a Turquia tenta pôr a eletrificação no centro do acordo.",
+          "acompanhar": "Chris Bowen (Austrália) promete nova versão do texto nos próximos dias; decisão final até sexta.",
+          "fontes": [
+            { "nome": "O Povo (AFP)", "url": "https://www.opovo.com.br/noticias/mundo/2026/11/16/projeto-de-decisao-da-cop31-sugere-acelerar-eliminacao-dos-combustiveis-fosseis.html", "data": "2026-11-16" },
+            { "nome": "BiodieselBR (Reuters)", "url": "https://www.biodieselbr.com/noticias/meioambiente/emissoes/onu-pede-agilidade-enquanto-cop31-enfrenta-divisao-em-torno-dos-combustiveis-fosseis", "data": "2026-11-16" }
+          ]
+        },
+        {
+          "id": "ira-bahrein-golfo",
+          "titulo": "Irã ataca o Bahrein com drones pela segunda vez em três dias; EUA mandam terceiro porta-aviões",
+          "importancia": "relevante",
+          "oQueAconteceu": "A Guarda Revolucionária iraniana disse ter lançado seis drones contra bases americanas no Bahrein, sede da Quinta Frota dos EUA; o governo do Bahrein diz que interceptou todos. Segundo o New York Times, o porta-aviões USS Theodore Roosevelt chega ao Oriente Médio em um dia, somando três. No Estreito de Ormuz, dois petroleiros bateram em minas e um afundou, segundo a Guarda. No Iêmen, as forças apoiadas pela Arábia Saudita recuaram perto de Bab el-Mandeb.",
+          "contexto": "O presidente do parlamento iraniano, Qalibaf, disse que o país 'não vai ficar entre guerra e paz' e está pronto para negociar ou lutar. A primeira versão desta história (ontem) estava 'em apuração'; hoje há confirmação dos dois lados sobre o ataque, não sobre o resultado.",
+          "porQueImporta": "Petróleo e frete marítimo reagem a cada notícia do Golfo, e isso chega ao diesel e à inflação daqui. É também o pano de fundo do juro que não cai.",
+          "lados": "Teerã fala em resposta a ataques anteriores; Washington e Manama tratam como escalada. Nenhum lado publicou imagens dos danos.",
+          "acompanhar": "Confirmação do Pentágono sobre o porta-aviões; preço do Brent na abertura europeia.",
+          "fontes": [
+            { "nome": "Anadolu Agency (Morning Briefing)", "url": "https://www.aa.com.tr/en/world/morning-briefing-nov-16-2026/4126094", "data": "2026-11-16" },
+            { "nome": "ClicRDC (resumo)", "url": "https://clicrdc.com.br/fique-bem-informado/cafe-com-noticias-de-segunda-feira-16-de-novembro-de-2026/", "data": "2026-11-16" }
+          ]
+        },
+        {
+          "id": "gaza-tendas-inverno",
+          "titulo": "Quatro países pedem que Israel deixe entrar 150 mil tendas em Gaza antes do inverno",
+          "importancia": "relevante",
+          "oQueAconteceu": "Os chanceleres de Austrália, Canadá, Itália e Reino Unido pediram a Israel que libere de imediato 150 mil tendas e suprimentos para Gaza. Dizem que as restrições na fronteira travam abrigo e ajuda, e que a crise 'ainda é totalmente reversível'.",
+          "porQueImporta": "Inverno em barraca é a parte da guerra que não aparece no noticiário de mísseis. Serve para o eixo de direitos humanos e para discutir o que é ajuda humanitária.",
+          "fontes": [
+            { "nome": "Anadolu Agency", "url": "https://www.aa.com.tr/en/world/morning-briefing-nov-16-2026/4126094", "data": "2026-11-16" }
+          ]
+        },
+        {
+          "id": "estonia-russia-fronteira",
+          "titulo": "Estônia fecha todas as fronteiras com a Rússia a partir de 1º de dezembro",
+          "importancia": "interessante",
+          "oQueAconteceu": "Depois de uma tentativa frustrada de sabotagem contra uma empresa de defesa, o governo estoniano anunciou o fechamento de todos os postos de fronteira com a Rússia a partir de 1/12. No mesmo dia, forças navais europeias abordaram no Mediterrâneo um petroleiro da 'frota fantasma' russa e descobriram que ele navegava com bandeira falsa. A China confirmou para 19/11, em Shenzhen, um encontro trilateral Rússia, China e EUA.",
+          "porQueImporta": "Mostra a guerra da Ucrânia virando guerra de fronteiras, sanções e navios, enquanto as três potências marcam uma mesa sem a Ucrânia.",
+          "fontes": [
+            { "nome": "Anadolu Agency", "url": "https://www.aa.com.tr/en/world/morning-briefing-nov-16-2026/4126094", "data": "2026-11-16" },
+            { "nome": "Tribuna do Agreste (via Sputnik, fonte estatal russa)", "url": "https://www.tribunadoagreste.com.br/geral/2026/11/16/1022680-principais-noticias-do-mundo-na-manha-de-hoje-16", "data": "2026-11-16" }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "educacao",
+      "nome": "Educação",
+      "noticias": [
+        {
+          "id": "enem-gabarito-18",
+          "titulo": "ENEM: gabarito sai amanhã, reaplicação restrita aos locais sem luz, prova de reposição em 15 e 16/12",
+          "importancia": "fundamental",
+          "oQueAconteceu": "O Inep confirma o gabarito oficial das provas objetivas para quarta (18/11), no portal do Inep. O pedido de reaplicação está aberto de 16 a 20/11 na Página do Participante, para quem teve problema logístico (como as 11 quedas de energia registradas) ou doença infectocontagiosa prevista no edital, com comprovação. A reaplicação será em 15 e 16 de dezembro, e o ministro Leonardo Barchini disse que vale só para os locais afetados, não para cidades inteiras. Resultado individual: 18 de janeiro de 2027.",
+          "porQueImporta": "Suas alunas vão conferir o gabarito amanhã à tarde e vir com dúvida de 'quantos acertos dão quanto'. O TRI não é regra de três: vale avisar antes que a ansiedade suba.",
+          "acompanhar": "Portal do Inep na quarta; nota da redação só em 18/01.",
+          "fontes": [
+            { "nome": "Correio Braziliense", "url": "https://www.correiobraziliense.com.br/cbradar/gabarito-enem-2026-inep-quando-sai-como-consultar/", "data": "2026-11-16" },
+            { "nome": "Terra", "url": "https://www.terra.com.br/noticias/educacao/enem/enem-2026-como-pedir-a-reaplicacao-quando-sai-o-gabarito-e-o-resultado-tire-duvidas-sobre-o-exame,48d6e348ff3168425167e0d8bad992cd4bpysfnr.html", "data": "2026-11-16" }
+          ]
+        }
+      ]
+    }
+  ],
+  "valeSeuTempo": [
+    { "titulo": "Voyager 1 a um dia-luz da Terra", "texto": "Amanhã (18/11) a sonda lançada em 1977 chega a 25,9 bilhões de km: o sinal leva 24 horas para ir e 24 para voltar. Primeira coisa feita por gente a ficar um dia-luz de casa. Serve para abrir aula sobre tempo e distância.", "url": "https://www.aa.com.tr/en/world/morning-briefing-nov-16-2026/4126094", "minutos": 3 },
+    { "titulo": "Ronaldinho de volta, aos 46", "texto": "Jogou pelo Ravenna, da terceira divisão italiana, num 2 a 0 sobre o Forlì: primeira partida oficial desde 2015, pelo Fluminense. Para conversar com os oitavos anos.", "minutos": 2 }
+  ],
+  "quickTakes": [
+    { "texto": "Flávio Bolsonaro, derrotado na eleição, viajou em sigilo aos EUA e pretende pedir residência permanente, alegando temor de perseguição; a notícia é da Anadolu e ainda não tem confirmação dele.", "url": "https://www.aa.com.tr/en/world/morning-briefing-nov-16-2026/4126094" },
+    { "texto": "O foguete Vulcan, da ULA, falhou e perdeu 40 satélites Leo da Amazon: revés para a internet via satélite que compete com a Starlink." },
+    { "texto": "Vazamento na Maileva, do grupo La Poste (França), expôs dados de cerca de 22 milhões de pessoas." },
+    { "texto": "Quase 1.500 migrantes chegaram às Canárias em um só dia, o maior número desde 2020." },
+    { "texto": "Milhares protestaram em Edimburgo contra data centers de IA na Escócia: energia, água e emprego na mesma pauta." },
+    { "texto": "Falso: não existe 'apagão mundial' marcado para 17/11; é corrente de WhatsApp." }
+  ],
+  "radarSemana": [
+    { "titulo": "Quarta 18/11", "texto": "Gabarito do ENEM no portal do Inep; Voyager 1 a um dia-luz." },
+    { "titulo": "Quinta 19/11", "texto": "Encontro Rússia-China-EUA em Shenzhen (sem a Ucrânia na mesa)." },
+    { "titulo": "Sexta 20/11", "texto": "Feriado da Consciência Negra: sem aula. Último dia para pedir reaplicação do ENEM. Fim da COP31." }
+  ],
+  "paraVoce": {
+    "tese": "Cortar gasto 'de forma linear' é a forma mais fácil de parecer justo e a mais certa de não ser: quem tem menos benefício perde a mesma fatia de quem tem muito.",
+    "noticiaParaTese": "ajuste-fiscal-senado",
+    "pergunta": "Se o tema fosse 'justiça fiscal no Brasil', que exemplo do seu dia a dia (escola, saúde, transporte) você usaria para mostrar o que o corte de 10% atinge?"
+  },
+  "leitura": {
+    "titulo": "Dialética para inglês ver: entrevista com Roberto Schwarz sobre Antonio Candido",
+    "veiculo": "piauí, edição de novembro",
+    "url": "https://piaui.folha.uol.com.br/?s=Roberto+Schwarz",
+    "minutos": 25,
+    "porque": "O maior crítico vivo falando do mestre: 'Dialética da malandragem', Memórias de um sargento de milícias e a literatura na periferia do capitalismo. É o seu 3º ano e o seu mestrado na mesma leitura. O link abre a busca da revista; a entrevista é a primeira da lista."
+  },
+  "escuta": {
+    "programa": "O Assunto (g1)",
+    "episodio": "#1846: O futuro do home office e a nova rotina de trabalho (16/11/2026)",
+    "url": "https://g1.globo.com/podcast/o-assunto/noticia/2026/11/16/o-futuro-do-home-office-e-a-nova-rotina-de-trabalho-o-assunto-1846.ghtml",
+    "minutos": 25,
+    "porque": "Fernando Nakagawa explica por que as empresas estão chamando todo mundo de volta (a média caiu para 2,3 dias de home office). Encaixa no eixo 'trabalho e tecnologia' e na PEC da escala 6x1."
+  }
+}
