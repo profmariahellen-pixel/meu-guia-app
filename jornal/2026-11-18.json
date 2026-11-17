@@ -1,0 +1,230 @@
+{
+  "tipo": "meu-guia-jornal",
+  "versao": 1,
+  "id": "2026-11-18-diaria",
+  "data": "2026-11-18",
+  "edicao": "diaria",
+  "nome": "Enquanto você estava dormindo",
+  "produzidoEm": "2026-11-17T12:40:00-03:00",
+  "produzidoPor": "Claude, com pesquisa na web em 17/11/2026. Edição com menos economia e mais mundo, descobertas, vozes e cultura, como você pediu.",
+  "leituraMin": 9,
+  "abertura": {
+    "destaque": "Um influenciador filmou Fernando Henrique acamado, a Mongólia perdeu o presidente por corrupção e a Voyager 1 fica hoje a um dia-luz da Terra.",
+    "frase": "Quarta de histórias humanas: o limite entre registro e invasão, um país que derruba o presidente, e uma sonda de 1977 que ainda nos manda notícias.",
+    "atencao": "Para você: o gabarito do ENEM sai hoje no portal do Inep; na escola, hoje é 1º ano (4º e 5º tempos) e 3º ano (6º tempo)."
+  },
+  "editorias": [
+    {
+      "id": "mundo",
+      "nome": "Mundo",
+      "noticias": [
+        {
+          "id": "mongolia-presidente-renuncia",
+          "titulo": "O presidente da Mongólia renunciou depois de acusações de corrupção",
+          "importancia": "relevante",
+          "oQueAconteceu": "A renúncia foi anunciada nesta segunda e terça (16 e 17/11), após semanas de denúncias e protestos. A Mongólia é uma democracia espremida entre a Rússia e a China, com três milhões de habitantes e um histórico recente de manifestações de jovens contra privilégios da elite política.",
+          "contexto": "Em 2025 o primeiro-ministro já tinha caído depois de protestos sobre o estilo de vida luxuoso do filho. É um país onde a rua derruba governo, coisa rara na vizinhança.",
+          "porQueImporta": "Para a aula: um exemplo atual de pressão popular funcionando numa democracia pequena e cercada por autocracias. Serve ao eixo 'democracia e participação'.",
+          "acompanhar": "Quem assume e se haverá eleição antecipada; os detalhes ainda são de manchete, sem reportagem longa em português.",
+          "fontes": [
+            { "nome": "Blog do Lago (manchetes do dia)", "url": "https://blogdolago.com.br/manchetes-do-dia-17-de-novembro-de-2026/", "data": "2026-11-17" }
+          ]
+        },
+        {
+          "id": "turquia-tv-oposicao",
+          "titulo": "Turquia invade uma TV de oposição, prende executivos e nomeia interventores",
+          "importancia": "relevante",
+          "oQueAconteceu": "O governo de Erdogan tomou o controle de uma emissora crítica, deteve seus executivos e colocou administradores nomeados pelo Estado no lugar. É mais um passo na pressão sobre a imprensa que já fechou jornais e prendeu jornalistas nos últimos anos.",
+          "porQueImporta": "Liberdade de imprensa é tema recorrente do ENEM e da UERJ. Aqui o exemplo é concreto: a TV continua no ar, mas com quem o governo escolheu.",
+          "lados": "O governo fala em irregularidades financeiras; a oposição e entidades de jornalistas falam em censura.",
+          "fontes": [
+            { "nome": "Blog do Lago (manchetes do dia)", "url": "https://blogdolago.com.br/manchetes-do-dia-17-de-novembro-de-2026/", "data": "2026-11-17" }
+          ]
+        },
+        {
+          "id": "california-openai",
+          "titulo": "Califórnia processa a OpenAI depois de 80 incidentes de segurança",
+          "importancia": "interessante",
+          "oQueAconteceu": "O estado americano abriu processo contra a empresa do ChatGPT, citando 80 incidentes de segurança cibernética registrados. É a primeira vez que um governo estadual dos EUA leva a empresa ao tribunal por esse motivo.",
+          "porQueImporta": "O eixo 'tecnologia e responsabilidade' ganha um caso real: quem responde quando a inteligência artificial vaza dados?",
+          "acompanhar": "A resposta da OpenAI e se outros estados seguem a Califórnia. Enquanto isso, Rússia, China e EUA se encontram amanhã (19/11) em Shenzhen, e Trump admite ver Kim Jong-un na China nesta semana.",
+          "fontes": [
+            { "nome": "Blog do Lago (manchetes do dia)", "url": "https://blogdolago.com.br/manchetes-do-dia-17-de-novembro-de-2026/", "data": "2026-11-17" },
+            { "nome": "Tribuna do Agreste (resumo da manhã)", "url": "https://www.tribunadoagreste.com.br/geral/2026/11/17/1023513-principais-noticias-do-mundo-na-manha-de-hoje-17", "data": "2026-11-17" }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "descobertas",
+      "nome": "Descobertas",
+      "noticias": [
+        {
+          "id": "bacterias-dna-vida-moderna",
+          "titulo": "A vida moderna está mudando o DNA das bactérias do nosso intestino",
+          "importancia": "fundamental",
+          "oQueAconteceu": "Um estudo na revista Cell comparou 5.981 genomas de bactérias intestinais de 56 pessoas em nove países. Em dez espécies, as bactérias de quem vive em sociedades industrializadas tinham mais genes; em oito delas a diferença foi grande o bastante para não ser acaso. Pesquisadores das universidades de Kiel, do MIT e do OIST (Japão) assinam.",
+          "contexto": "Já se sabia que a cidade muda QUAIS bactérias vivem na gente. A novidade é que ela parece mudar as próprias bactérias por dentro.",
+          "porQueImporta": "Para o eixo 'saúde e modo de vida': comida ultraprocessada e antibiótico não mudam só o que a gente come, mudam quem mora dentro da gente. Ainda não se sabe se os genes extras ajudam ou atrapalham.",
+          "acompanhar": "Próximos estudos vão testar se dieta ou remédio causam a mudança.",
+          "fontes": [
+            { "nome": "Gizmodo Brasil", "url": "https://www.gizmodo.com.br/cientistas-descobriram-que-a-vida-moderna-pode-estar-modificando-o-dna-das-bacterias-do-nosso-intestino-75705", "data": "2026-11-16" }
+          ]
+        },
+        {
+          "id": "thwaites-geleira",
+          "titulo": "A 'geleira do juízo final' já recuou muito antes, e pode recuar de novo",
+          "importancia": "relevante",
+          "oQueAconteceu": "Sedimentos do fundo do mar mostram que a geleira Thwaites, na Antártida, teve recuos grandes no passado geológico, segundo o British Antarctic Survey na Nature Communications. Ela é chamada de 'juízo final' porque segura gelo suficiente para subir o nível do mar em mais de meio metro.",
+          "porQueImporta": "Enquanto a COP31 discute o fim dos fósseis em Antália, a ciência mostra o que está em jogo. Dado bom para a redação: meio metro de mar a mais atinge Rio, Recife e Santos.",
+          "fontes": [
+            { "nome": "DOL", "url": "https://dol.com.br/noticias/mundo-noticias/968493/geleira-do-juizo-final-esta-em-risco-de-colapso-mostra-novo-estudo", "data": "2026-11-16" }
+          ]
+        },
+        {
+          "id": "voyager-um-dia-luz",
+          "titulo": "Hoje a Voyager 1 fica a um dia-luz da Terra",
+          "importancia": "interessante",
+          "oQueAconteceu": "Lançada em 1977, a sonda chega hoje a 25,9 bilhões de quilômetros: a luz (e o rádio) leva 24 horas para ir e 24 para voltar. É a primeira coisa feita por gente a ficar tão longe.",
+          "porQueImporta": "Para abrir aula: um objeto mais velho que você, com um disco de ouro com músicas e saudações em 55 línguas, incluindo português, ainda falando com a Terra.",
+          "fontes": [
+            { "nome": "Anadolu Agency", "url": "https://www.aa.com.tr/en/world/morning-briefing-nov-16-2026/4126094", "data": "2026-11-16" }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "vozes",
+      "nome": "Vozes",
+      "noticias": [
+        {
+          "id": "sumire-sakabe-covid",
+          "titulo": "Sumire Sakabe, infectologista: a covid voltou a subir e vale testar quando gripar",
+          "importancia": "relevante",
+          "oQueAconteceu": "Em entrevista ao Nexo (16/11), a infectologista explica o aumento de casos de covid no Brasil neste fim de ano, com dados da Fiocruz sobre internações por síndrome respiratória grave, e o que fazer: testar, se vacinar se estiver no grupo indicado e não ir trabalhar doente.",
+          "porQueImporta": "Você passa a manhã numa sala fechada com 30 adolescentes. Se gripar, teste antes de voltar.",
+          "fontes": [
+            { "nome": "Nexo Jornal (entrevista)", "url": "https://www.nexojornal.com.br/entrevista/2026/11/16/covid-xfg-variante-coronavirus-teste-vacina", "data": "2026-11-16" }
+          ]
+        },
+        {
+          "id": "vera-antunes-enem",
+          "titulo": "Vera Antunes, professora: uma questão de matemática do ENEM deveria ser anulada",
+          "importancia": "relevante",
+          "oQueAconteceu": "À CNN (16/11), a professora do Colégio Objetivo disse que uma questão de matemática deste ENEM tem dados inconsistentes e deveria ser anulada, e criticou a complexidade das questões de exatas. O gabarito oficial sai hoje.",
+          "porQueImporta": "Suas alunas vão perguntar. A resposta curta: o Inep só anula se reconhecer erro, e a nota de redação não muda com isso.",
+          "fontes": [
+            { "nome": "CNN Brasil", "url": "https://www.cnnbrasil.com.br/educacao/professora-explica-por-que-questao-de-matematica-do-enem-pode-ser-anulada/", "data": "2026-11-16" }
+          ]
+        },
+        {
+          "id": "jose-edeson-professor",
+          "titulo": "José Edeson Siqueira, UFPE: a formação do professor é o começo de qualquer mudança",
+          "importancia": "interessante",
+          "oQueAconteceu": "Em coluna no Diário de Pernambuco (13/11), o coordenador nacional do ProfEDigital defende que não há reforma de ensino que funcione sem investir primeiro em quem dá aula, e cita um panorama nacional de educação em ciências da Fundação Carlos Chagas com o British Council.",
+          "porQueImporta": "Argumento pronto para o tema 'valorização do professor', dito por quem forma professores.",
+          "fontes": [
+            { "nome": "Diário de Pernambuco (opinião)", "url": "https://www.diariodepernambuco.com.br/colunas/opiniao/2026/11/11729045-o-professor-no-centro-da-transformacao.html", "data": "2026-11-13" }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "cultura",
+      "nome": "Cultura",
+      "noticias": [
+        {
+          "id": "anne-carson-nobel",
+          "titulo": "Anne Carson, a poeta que ganhou o Nobel, recebe o prêmio em 10 de dezembro",
+          "importancia": "relevante",
+          "oQueAconteceu": "A canadense de 76 anos, poeta, ensaísta e tradutora de grego antigo, foi anunciada em 8 de outubro 'por sua obra ousada e criativa que, em diálogo lúdico com a tradição clássica, criou novas formas para a literatura contemporânea'. A cerimônia é em Estocolmo em 10/12. Em português há 'Autobiografia do vermelho' e 'Vidro, ironia e Deus'.",
+          "porQueImporta": "Um poema dela por dia cabe no seu cardápio: 'Autobiografia do vermelho' é um romance em versos sobre um monstro vermelho apaixonado. Para o 3º ano, é a prova de que mito grego ainda rende literatura nova.",
+          "fontes": [
+            { "nome": "Folha de Pernambuco", "url": "https://www.folhape.com.br/cultura/nobel-premia-a-obra-audaciosa-da-poetisa-canadense-anne-carson/517233/", "data": "2026-10-08" }
+          ]
+        },
+        {
+          "id": "festival-livrarias-carmem-dolores",
+          "titulo": "O Festival das Livrarias do Rio acabou domingo e deixou dois lançamentos para a sua estante",
+          "importancia": "interessante",
+          "oQueAconteceu": "Foram quatro dias em 25 livrarias. Entre os lançamentos: 'Almas complexas', contos de Carmem Dolores (1852–1910), escritora carioca que a escola esqueceu, com apresentação de Gilberto Araujo na Travessa do Leblon; e 'Na estrada', romance de Martha Medeiros. Saiu também a 2ª edição do Guia das Livrarias do Rio, com 125 livrarias.",
+          "porQueImporta": "Carmem Dolores é a sua série de mulheres esquecidas: cronista da Belle Époque carioca, feminista antes do nome. 'Almas complexas' cabe numa aula do 2º ano sobre naturalismo e cidade.",
+          "fontes": [
+            { "nome": "Rota Cult", "url": "https://rotacult.com.br/2026/11/3o-festival-das-livrarias-do-rio-reune-lancamentos-debates-mostras-espetaculos-e-gastronomia/", "data": "2026-11-10" }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "viralizou",
+      "nome": "Viralizou",
+      "noticias": [
+        {
+          "id": "fhc-video-influenciador",
+          "titulo": "O vídeo da casa de Fernando Henrique: até onde vai o 'registro histórico'",
+          "importancia": "fundamental",
+          "oQueAconteceu": "O influenciador Wesley Oliveira postou no TikTok (9/11) imagens do apartamento do ex-presidente, de 95 anos, acamado com Alzheimer em fase avançada. O TikTok derrubou a conta no dia seguinte. A família pediu à Justiça a apreensão dos aparelhos e a exclusão dos perfis; a mulher de FHC disse que o vídeo buscava desonrar a imagem dele. O influenciador diz que ela autorizou e que é 'registro histórico'.",
+          "contexto": "FHC está interditado desde abril. O caso virou debate sobre privacidade de pessoas vulneráveis e sobre o que uma plataforma deve tirar do ar.",
+          "porQueImporta": "É o tema de redação da semana: dignidade e imagem de quem não pode consentir. Serve para discutir com as turmas o que é documento e o que é exposição.",
+          "lados": "Quem defende o vídeo fala em transparência sobre figuras públicas; quem critica lembra que um homem interditado não é figura pública, é paciente.",
+          "acompanhar": "Decisão da Justiça sobre a apreensão dos aparelhos.",
+          "fontes": [
+            { "nome": "InfoSaj", "url": "https://infosaj.com.br/tiktok-tira-do-ar-conta-de-influenciador-que-filmou-fhc-diagnosticado-com-fase-avancada-de-alzheimer/", "data": "2026-11-12" },
+            { "nome": "Substack Vitor Vieira (jornalismo)", "url": "https://vitorvieirajornalismo1.substack.com/p/tiktok-bane-conta-de-influencer-midnight", "data": "2026-11-11" }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "brasil",
+      "nome": "Brasil",
+      "noticias": [
+        {
+          "id": "enem-gabarito-hoje",
+          "titulo": "Gabarito do ENEM sai hoje; reaplicação pode ser pedida até sexta",
+          "importancia": "relevante",
+          "oQueAconteceu": "O Inep publica hoje (18/11) o gabarito das provas objetivas no seu portal. Quem teve problema logístico (como as quedas de energia) ou doença prevista no edital pode pedir reaplicação até sexta (20/11) na Página do Participante; a reaplicação é em 15 e 16/12 e o resultado individual, em 18/01/2027.",
+          "porQueImporta": "O acerto bruto não é a nota: o TRI pesa cada questão. Avise as alunas antes que a tarde vire ansiedade.",
+          "fontes": [
+            { "nome": "Correio Braziliense", "url": "https://www.correiobraziliense.com.br/cbradar/gabarito-enem-2026-inep-quando-sai-como-consultar/", "data": "2026-11-16" }
+          ]
+        }
+      ]
+    }
+  ],
+  "valeSeuTempo": [
+    { "titulo": "5 livros de autorias periféricas, por Nivaldo Brito (Nexo)", "texto": "Lista curta para sair do lugar-comum na aula de literatura brasileira contemporânea. Bom para montar a estante do 1º ano.", "url": "https://nexojornal.com.br/estante-favoritos/2026/11/14/autores-perifericos-livros-sobre-periferia-indicacoes-nivaldo-brito", "minutos": 6 },
+    { "titulo": "Tamanduás e antas com microplástico no sangue", "texto": "Estudo brasileiro achou plástico no sangue de animais do Cerrado. Dado forte e simples para o eixo ambiental.", "url": "https://nexojornal.com.br/externo/2026/11/15/poluicao-contaminacao-microplastico-tamandua-anta-animais", "minutos": 5 }
+  ],
+  "quickTakes": [
+    { "texto": "Falso de novo: não houve 'apagão mundial' em 17/11. O boato nasceu de um teste do sistema de alerta de emergência dos EUA. Se uma aluna mandar, é a chance de falar de checagem.", "url": "https://agendadopoder.com.br/apagao-mundial-neste-17-de-novembro-entenda-os-boatos-e-o-que-dizem-os-especialistas/" },
+    { "texto": "Rússia, China e EUA se reúnem amanhã (19/11) em Shenzhen, sem a Ucrânia na mesa; o Kremlin diz que o encontro 'manda um sinal à humanidade'." },
+    { "texto": "Protestos grandes na França nesta semana, segundo correspondentes; causa e números ainda confusos nas fontes em português." },
+    { "texto": "Operação investiga R$ 800 mil movimentados em caso ligado a um filho do presidente Lula; ainda só manchete, sem reportagem completa." },
+    { "texto": "Amanhã estreiam Jogos Vorazes: Amanhecer na Colheita, Eu Sou o Rocky e Verão da Lata; já estão no seu Radar com os cinemas." }
+  ],
+  "radarSemana": [
+    { "titulo": "Hoje 18/11", "texto": "Gabarito do ENEM. Voyager 1 a um dia-luz." },
+    { "titulo": "Quinta 19/11", "texto": "Estreias no cinema; encontro Rússia-China-EUA em Shenzhen." },
+    { "titulo": "Sexta 20/11", "texto": "Feriado da Consciência Negra: sem aula. Último dia da COP31 e do pedido de reaplicação do ENEM." }
+  ],
+  "paraVoce": {
+    "tese": "Filmar quem não pode dizer não nunca é registro histórico: é a história de quem filma, não de quem aparece.",
+    "noticiaParaTese": "fhc-video-influenciador",
+    "pergunta": "Se o tema fosse 'privacidade e dignidade na era das plataformas', que exemplo das suas turmas (exposição em grupo de WhatsApp, foto sem permissão) você usaria no D2?"
+  },
+  "leitura": {
+    "titulo": "Como o Super El Niño está afetando a Amazônia",
+    "veiculo": "Nexo Jornal",
+    "url": "https://nexojornal.com.br/externo/2026/11/14/el-nino-2026-super-el-nino-amazonia-kit-de-emergencia",
+    "minutos": 10,
+    "porque": "Rios secando e cidades isoladas de novo, explicado sem jargão. É o dado humano por trás do 'clima' que a COP discute."
+  },
+  "escuta": {
+    "programa": "História Preta",
+    "episodio": "Luiz Gama | Legítima Defesa (série Luiz Gama, 2026)",
+    "url": "https://open.spotify.com/search/Hist%C3%B3ria%20Preta%20Luiz%20Gama%20Leg%C3%ADtima%20Defesa",
+    "minutos": 45,
+    "porque": "Thiago André conta o caso em que Luiz Gama defendeu um escravizado que matou o senhor alegando legítima defesa. Feriado de sexta é da Consciência Negra: ouvir antes é preparar a aula. O link abre a busca no Spotify."
+  }
+}
